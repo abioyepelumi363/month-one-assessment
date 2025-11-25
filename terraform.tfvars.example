@@ -1,0 +1,8 @@
+aws_region            = "us-east-1"
+bastion_instance_type = "t3.micro"
+web_instance_type     = "t3.micro"
+db_instance_type      = "t3.small"
+key_pair_name         = "my-key"
+admin_ip              = "102.88.54.31/32"
+ssh_username          = "techcorpuser"
+ssh_password          = "ChangeThisPassword123!"
