@@ -23,8 +23,8 @@ This infrastructure demonstrates a production-ready AWS setup with:
 - Bastion host for secure administrative access
 - PostgreSQL database in a private subnet
 
-**Created by:** Abioye Oluwapelumi Abdul-lateef  
-**Date:** November 2024  
+**Created by:** Abdul-lateef Oluwapelumi Abioye
+**Date:** November 2025  
 **Institution:** AltSchool Africa - Cloud Engineering
 
 ---
